@@ -102,9 +102,6 @@ As with the script above, this will generate files for training the Keras model.
     
 next to train and evaluate the model.
 
-## License
-
-MIT. See the LICENSE file for the copyright notice.
 
 ## References
 
