@@ -101,7 +101,8 @@ As with the script above, this will generate files for training the Keras model.
     quora-question-pairs-training.ipynb
     
 next to train and evaluate the model.
-
+## Another approach
+I have just implemented another approach to solve this problem which can be found in notebook.ipnyb notebook. Thanks for reading.
 
 ## References
 
